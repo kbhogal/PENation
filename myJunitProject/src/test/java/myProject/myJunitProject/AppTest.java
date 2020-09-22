@@ -353,7 +353,7 @@ import javax.mail.internet.*;
 		{
 			
 		     String username = "kirpal_s_bhogal@hotmail.com";
-		     String password = "Imgreat@14";
+		     String password = "Use your outlook/hotmail credential";
           //this is outlook/hotmail only setup for now. 
 	         Properties props = null;
 	         if (props == null) {
